@@ -2,4 +2,24 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: honeydew;
+}
+
+h1 {
+    font-family: 'Times New Roman', sans-serif;
+    padding: 12px;
+    margin: 0 auto;
+}
+
+a {
+    font-family: "Courier New", monospace;
+}
+
+.recipe-container {
+    padding: 25px;
+    margin-top: -25px;
+}
+
+.container {
+    padding: 25px;
 }
